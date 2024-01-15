@@ -9,7 +9,7 @@
   * 유니티 짬짬이 공부하기
     * [Youtube](https://www.youtube.com/@Brackeys)
 
-      - [ ] [현재 진행 중](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6)
+      - [x] [현재 진행 중](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6)
       
     * [Helpful Sites](https://gall.dcinside.com/mgallery/board/lists/?id=game_dev)
 
